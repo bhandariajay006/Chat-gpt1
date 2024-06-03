@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: chatgpt
-        image: bhandariajay006/chat-gpt:latest
+        image: bhandariajay006/chatgpt:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
